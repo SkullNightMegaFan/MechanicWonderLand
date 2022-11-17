@@ -1,0 +1,25 @@
+The goal of this mechanic will be to have a much more fun overworld in soul hackers 2. in soul hackers 2 before you hit an enemy to battle them it feels really stiff and awkward among other changes
+To combat this I want to make the following changes
+-auto kill enemies if above a certain level
+-increase money from battles
+-implement basic rpg structure of weaknesses and strengths
+-implement demon equipment
+-make physical critical moves cause a demon to be added to the stack
+-a mechanic that gives demon points whenever demon's are recruited. allowing you to use that to power up demons
+-the ability to sell demons you obtain at auction, mini game to create bull and bear markets, able to artifically increase demand through underhanded methods and bribes.
+-a complete overhaul to demon recon, demon negotation will be something completely different. simply obtaining a demon because you defeated it is lame, or rather not as fun as previous installments
+- create bonuses for fighting risky enemies
+- auto attack function should be customizable(no mp) strike weakness only etc. 
+- battles will be given a grade based on damage done, damage received, sabbath counter and item usage. demon's will want to join your party based on results
+- if a player does really poorly in battle demon's may join the fray to prey on you in a weakened state. 
+- a sprint button, heavily needeed
+- rewards/punishments for how you approach an enemy. if you strike an enemy in the over world with the tip of your sword, guaranteed ambush
+- enemies that are stronger than you will be able to out run you. you can drop items or create doubles to catch them off your trail
+- demons will only be able to do demon recon if they are not equipped to a summoner. this creates more reason to keep weaker demons as part of your party. 
+////////////////////////
+I highly doubt i'll get to every single one of these but the main part that for sure is getting finshed is
+-the rpg system(specifically the sabbath)
+- the overworld bonuses for striking enemies
+-fluid motion to moving around in the overworld. 
+/////////////////////////
+Everything else is extra, and I hope to get this finished before I graduate. It would be lovely to make this for my capstone. prob not tho. 
